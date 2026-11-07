@@ -1,0 +1,63 @@
+===== Q1.py =====
+Marks updated successfully.
+Marks updated successfully.
+Ali: marks=85, grade=A
+Sara: marks=55, grade=C
+Marks updated successfully.
+Invalid marks: enter a number from 0 to 100.
+Ali: marks=92, grade=A
+Direct access to __grade is blocked (name-mangled by Python).
+
+===== Q2.py =====
+Deposit successful: Rs. 1,500.00
+Withdrawal successful: Rs. 1,000.00
+Withdrawal rejected: insufficient balance.
+Withdrawal rejected: incorrect PIN.
+Current balance: Rs. 5,500.00
+
+===== Q3.py =====
+Developer Details
+Name: Ayesha
+Employee ID: EMP101
+Programming Language: Python
+
+Manager Details
+Name: Hamza
+Employee ID: EMP102
+Team Size: 8
+
+===== Q4.py =====
+Car rent for 3 days (including insurance): Rs. 16,000.00
+Bike rent for 3 days (after 10% discount): Rs. 4,050.00
+Invalid rental: Rental duration must be a positive whole number of days.
+
+===== Q5.py =====
+Email notification: Your order has been confirmed.
+SMS notification: Your order has been confirmed.
+Push notification: Your order has been confirmed.
+WhatsApp notification: Your order has been confirmed.
+
+===== Q6.py =====
+RegularCustomer: Rs. 9,500.00
+PremiumCustomer: Rs. 9,000.00
+VIPCustomer: Rs. 8,000.00
+GoldCustomer: Rs. 8,500.00
+Invalid bill: Bill amount cannot be negative and must be numeric.
+
+===== Q7.py =====
+Circle area: 78.54
+Circle perimeter: 31.42
+Rectangle area: 24.00
+Rectangle perimeter: 20.00
+Cannot instantiate Shape: Can't instantiate abstract class Shape without an implementation for abstract methods 'area', 'perimeter'
+
+===== Q8.py =====
+Payment method: Card | Transaction: Payment | Amount: Rs. 2,500.00
+Payment method: Card | Transaction: Refund | Amount: Rs. 500.00
+Payment method: Wallet | Transaction: Payment | Amount: Rs. 2,500.00
+Payment method: Wallet | Transaction: Refund | Amount: Rs. 500.00
+Payment method: Bank Transfer | Transaction: Payment | Amount: Rs. 2,500.00
+Payment method: Bank Transfer | Transaction: Refund | Amount: Rs. 500.00
+Payment method: Mobile Wallet | Transaction: Payment | Amount: Rs. 2,500.00
+Payment method: Mobile Wallet | Transaction: Refund | Amount: Rs. 500.00
+Transaction rejected: Transaction amount must be positive.
